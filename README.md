@@ -1,0 +1,2 @@
+# practicaldatasci
+Data exercises
